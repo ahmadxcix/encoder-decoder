@@ -52,7 +52,6 @@
 
 This project was an assignment in the deep learning course at KFUPM in tern 211. The detail of the tasks is explained in the uploaded pdf file.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -106,4 +105,4 @@ Project Link: [https://github.com/ahmadxcix/encoder-decoder](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/ahmadxcix/encoder-decoder.svg?style=for-the-badge
 [issues-url]: https://github.com/ahmadxcix/encoder-decoder/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/ahmed-badawood/
